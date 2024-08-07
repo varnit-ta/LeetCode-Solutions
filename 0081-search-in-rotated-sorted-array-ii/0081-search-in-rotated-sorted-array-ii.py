@@ -20,13 +20,13 @@ class Solution(object):
             if nums[left] == nums[mid] == nums[right]:
                 left += 1
                 right -= 1
-            # If the left half is sorted
+                
             elif nums[left] <= nums[mid]:
                 if nums[left] <= target < nums[mid]:
                     right = mid - 1
                 else:
                     left = mid + 1
-            # If the right half is sorted
+
             else:
                 if nums[mid] < target <= nums[right]:
                     left = mid + 1
