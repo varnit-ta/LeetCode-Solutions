@@ -1,10 +1,12 @@
-#include <vector>
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+
         if (nums.empty()) return 0;
 
         int total = 0; 
