@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## String
