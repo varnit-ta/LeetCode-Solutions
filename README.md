@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
