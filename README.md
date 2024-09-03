@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
