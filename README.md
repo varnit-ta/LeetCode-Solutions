@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
