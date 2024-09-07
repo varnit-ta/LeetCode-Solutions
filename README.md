@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Combinatorics
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Interactive
 |  |
