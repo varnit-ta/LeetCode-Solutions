@@ -11,20 +11,14 @@ class Solution {
 public:
     int maxSubArray(vi& nums) {
         int n = nums.size();
-        int mx = nums[0];
-
-        vi dp(n, INT_MIN);
-        dp[0] = nums[0];
+        int current_sum = nums[0];
+        int max_sum = nums[0]; 
 
         FOR(i, 1, n){
-            int dp_next = nums[i] + dp[i-1];
-
-            if (dp_next < nums[i]) dp[i] = nums[i];
-            else dp[i] = dp_next;
-
-            mx = max(mx, dp[i]);
+            current_sum = max(nums[i], current_sum + nums[i]);
+            max_sum = max(max_sum, current_sum);
         }
 
-        return mx;
+        return max_sum;
     }
 };
