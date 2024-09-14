@@ -1,32 +1,37 @@
+#include <bits/stdc++.h>
+#ifdef LOCAL
+#else
+#define debug(...) 42
+#endif
+
+#define ll long long
+#define pb push_back
+#define F first
+#define S second
+#define vi vector<int>
+#define vii vector<vector<int>>
+#define FOR(x, a, b) for (int x = a; x < b; x++)
+#define FORR(x, arr) for (auto& x : arr)
+
 class Solution {
 public:
-    int f(vector<int>&nums, int pos){
-        if (pos >= nums.size()-1){
-            return 0;
-        }else if (pos + nums[pos] >= nums.size() - 1) {
-            return 1;
-        }else {
-            int end = INT_MIN;
-            int end_ind;
-
-            cout << pos << " ";
-
-            for (int i = pos+1; i <= pos + nums[pos] && i < nums.size(); i++) {
-                if (end < i + nums[i]){
-                    end = i + nums[i];
-                    end_ind = i;
-                }
-            }
-
-            return 1 + f(nums, end_ind);
-        }
-    }
-
     int jump(vector<int>& nums) {
-        if (nums.size() == 1) return 0;
+        int n = nums.size();
+        if (n == 1) return 0;
 
-        if (nums[0] >= nums.size() - 1) return 1;
+        vector<int> dp(n, INT_MAX);
+        dp[0] = 0;
 
-        return f(nums, 0);
+        FOR(i, 0, n) {
+            if (dp[i] == INT_MAX) continue;
+
+            int maxReach = min(i + nums[i], n - 1);
+
+            FOR(j, i + 1, maxReach + 1) {
+                dp[j] = min(dp[j], dp[i] + 1);
+            }
+        }
+
+        return dp[n - 1];
     }
 };
