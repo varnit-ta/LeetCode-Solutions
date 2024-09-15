@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
