@@ -3,8 +3,6 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n = intervals.size();
         if (n == 0) return {};
-
-        sort(intervals.begin(), intervals.end());
         
         vector<vector<int>> res;
         res.push_back(intervals[0]);
