@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
 |  |
