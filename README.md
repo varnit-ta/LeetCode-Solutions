@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
