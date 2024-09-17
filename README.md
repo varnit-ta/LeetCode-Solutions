@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0077-combinations) |
 ## Greedy
 |  |
 | ------- |
