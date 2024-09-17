@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
