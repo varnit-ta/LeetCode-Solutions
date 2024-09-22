@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
