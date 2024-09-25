@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
