@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Greedy
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0231-power-of-two) |
