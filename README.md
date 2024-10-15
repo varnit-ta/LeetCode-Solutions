@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
