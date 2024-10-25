@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0231-power-of-two) |
