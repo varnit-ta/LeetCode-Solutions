@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
