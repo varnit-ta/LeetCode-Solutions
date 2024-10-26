@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
