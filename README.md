@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Sorting
 |  |
