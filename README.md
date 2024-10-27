@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
