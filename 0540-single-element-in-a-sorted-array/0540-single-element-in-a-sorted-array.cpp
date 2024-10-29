@@ -1,26 +1,26 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int n = nums.size();
+        int l = 0, r = nums.size() - 1;
 
-        function<int(int, int, int)> binarySearch = [&](int left, int right, int target){
+        if (r == 0) return nums[0];
+        if (nums[0] != nums[1]) return nums[0];
+        if (nums[r] != nums[r - 1]) return nums[r];
+
+        function<int(int, int)> check = [&](int left, int right){
             if (left <= right){
-                int mid = left + (right - left)/2;
+                int mid = (left + right) / 2;
 
-                if (nums[mid] == target) return target;
+                if (nums[mid] != nums[mid + 1] && nums[mid] != nums[mid - 1]){
+                    return nums[mid];
+                }
 
-                if (nums[mid] < target) return binarySearch(mid + 1, right, target);
-                else return binarySearch(left, mid - 1, target);
-            }else{
-                return -1;
+                return check(left, mid - 1) + check(mid + 1, right);
             }
+
+            return 0;
         };
 
-        for (int i = 0; i < n; i += 2){
-            int res = binarySearch(i + 1, n - 1, nums[i]);
-            if (res == -1) return nums[i];
-        }
-
-        return 0;
+        return check(l, r);
     }
 };
