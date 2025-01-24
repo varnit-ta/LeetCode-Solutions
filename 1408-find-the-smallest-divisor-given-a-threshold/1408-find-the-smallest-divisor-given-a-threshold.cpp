@@ -4,16 +4,13 @@ public:
         int left = 1, right = *max_element(nums.begin(), nums.end());
         int mid, num = -1;
 
-        function<int(int)> divByNum = [&](int num){
-            int sum = 0;
-            for (auto el: nums) sum += ceil((double)(el) / (double)(num));
-            return sum;
-        };
-
         while (left <= right){
             mid = (left + right)/2;
 
-            if (divByNum(mid) <= threshold){
+            int sum_div = 0;
+            for (auto el: nums) sum_div += ceil((double)(el) / (double)(mid));
+
+            if (sum_div <= threshold){
                 num = mid;
                 right = mid - 1;
             }else{
