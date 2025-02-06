@@ -1,5 +1,9 @@
 class Solution {
 public:
+    /*
+        Sees if for a given day required number of
+        bouquets can be formed.
+    */
     bool possible(vector<int>& bloomDay, int m, int k, int day){
         int count = 0, bloomD = 0;
 
