@@ -10,21 +10,19 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        if (!head) return head;
+    ListNode* recuFunction(ListNode* curr, ListNode* prev){
+        if (curr){
+            ListNode* nextCur = curr->next;
+            curr->next = prev;
 
-        ListNode *front = nullptr;
-        ListNode *back = head;
-        ListNode *temp;
-
-        while (back){
-            temp = back->next;
-
-            back->next = front;
-            front = back;
-            back = temp;
+            return recuFunction(nextCur, curr);
         }
 
-        return front;
+        return prev;
+    }
+
+
+    ListNode* reverseList(ListNode* head) {
+        return recuFunction(head, nullptr);
     }
 };
