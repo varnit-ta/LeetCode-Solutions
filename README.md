@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
+| [0812-rotate-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0812-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
