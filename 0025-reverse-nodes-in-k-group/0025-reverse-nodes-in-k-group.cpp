@@ -10,51 +10,39 @@
  */
 class Solution {
 public:
-    vector<int> data;
+    ListNode* reversePartList(ListNode* head){
+        ListNode *back = nullptr, *front = head;
 
-    void captureData(ListNode* root){
-        ListNode *ptr = root;
+        while (front){
+            ListNode* temp = front->next;
+            front->next = back;
+            back = front;
+            front = temp;
+        }
 
-        while (ptr != NULL){
-            data.push_back(ptr->val);
+        return head;
+    }
+
+    ListNode* reverseList(ListNode* head, int k){
+        if (!head) return head;
+
+        ListNode *ptr = head, *part = ptr;
+
+        for (int i = 0; i < k; i++){
+            if (!ptr->next && i < k-1) return head;
+            part = ptr;
             ptr = ptr->next;
         }
-    }
 
-    vector<int> reverseKGroup(vector<int>& group, int k) {
-        if (group.size() < k) {
-            return group;
-        }
-        reverse(group.begin(), group.begin() + k);
-        return group;
-    }
+        ListNode *nextHead = reverseList(ptr, k);
+        part->next = nullptr;
 
-    ListNode* createLinkedList(const vector<int>& data) {
-        ListNode* root = nullptr;
-        ListNode* current = nullptr;
-        for (int val : data) {
-            if (root == nullptr) {
-                root = new ListNode(val);
-                current = root;
-            } else {
-                current->next = new ListNode(val);
-                current = current->next;
-            }
-        }
-        return root;
+        ListNode* newList = reversePartList(head);
+        newList->next = nextHead;
+        return part;
     }
 
     ListNode* reverseKGroup(ListNode* head, int k) {
-        captureData(head);
-        int n = data.size();
-        for (int i = 0; i < n; i += k) {
-            if (i + k <= n) {
-                vector<int> group(data.begin() + i, data.begin() + i + k);
-                group = reverseKGroup(group, k);
-                data.erase(data.begin() + i, data.begin() + i + k);
-                data.insert(data.begin() + i, group.begin(), group.end());
-            }
-        }
-        return createLinkedList(data);
+        return reverseList(head, k);
     }
 };
