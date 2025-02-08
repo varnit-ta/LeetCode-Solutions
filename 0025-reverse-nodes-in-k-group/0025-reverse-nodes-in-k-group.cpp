@@ -1,45 +1,38 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* reversePartList(ListNode* head){
-        ListNode *back = nullptr, *front = head;
-
-        while (front){
-            ListNode* temp = front->next;
-            front->next = back;
-            back = front;
-            front = temp;
+    // Reverse the first k nodes in-place
+    ListNode* reverseKNodes(ListNode* head, int k) {
+        ListNode *prev = nullptr, *curr = head, *next = nullptr;
+        for (int i = 0; i < k && curr; i++) {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
-
-        return head;
+        head->next = curr; // Link to the next part
+        return prev; // New head of the reversed k-group
     }
 
-    ListNode* reverseList(ListNode* head, int k){
+    ListNode* reverseList(ListNode* head, int k) {
         if (!head) return head;
 
-        ListNode *ptr = head, *part = ptr;
-
-        for (int i = 0; i < k; i++){
-            if (!ptr->next && i < k-1) return head;
-            part = ptr;
+        // Check if there are at least k nodes to reverse
+        ListNode *ptr = head;
+        int count = 0;
+        while (ptr && count < k) {
             ptr = ptr->next;
+            count++;
         }
 
-        ListNode *nextHead = reverseList(ptr, k);
-        part->next = nullptr;
+        if (count < k) return head; // If less than k nodes, return as is
 
-        ListNode* newList = reversePartList(head);
-        newList->next = nextHead;
-        return part;
+        // Reverse first k nodes
+        ListNode *newHead = reverseKNodes(head, k);
+        
+        // Recursively reverse the remaining groups
+        head->next = reverseList(head->next, k);
+        
+        return newHead;
     }
 
     ListNode* reverseKGroup(ListNode* head, int k) {
