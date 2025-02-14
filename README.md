@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
