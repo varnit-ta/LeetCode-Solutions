@@ -20,7 +20,8 @@ public:
         }
         if (left){
             return left;
-        }else if (right){
+        }
+        if (right){
             return right;
         }
 
