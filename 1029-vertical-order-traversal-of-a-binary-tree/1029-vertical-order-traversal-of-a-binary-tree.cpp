@@ -5,13 +5,11 @@ public:
         queue<pair<TreeNode*, pair<int, int>>> todo;
         todo.push({root, {0, 0}});
 
-        while (!todo.empty()){
-            auto p = todo.front();
+        while (!todo.empty()) {
+            auto [node, pos] = todo.front();  // Structured bindings
             todo.pop();
 
-            TreeNode* node = p.first;
-            int x = p.second.first, y = p.second.second;
-
+            auto& [x, y] = pos;  // Extract values
             nodes[x][y].insert(node->val);
 
             if (node->left) todo.push({node->left, {x - 1, y + 1}});
@@ -19,10 +17,10 @@ public:
         }
 
         vector<vector<int>> res;
-        for (auto p: nodes){
+        for (auto& [x, levelMap] : nodes) {
             vector<int> col;
-            for (auto q: p.second){
-                col.insert(col.end(), q.second.begin(), q.second.end());
+            for (auto& [y, values] : levelMap) {
+                col.insert(col.end(), values.begin(), values.end());
             }
             res.push_back(col);
         }
