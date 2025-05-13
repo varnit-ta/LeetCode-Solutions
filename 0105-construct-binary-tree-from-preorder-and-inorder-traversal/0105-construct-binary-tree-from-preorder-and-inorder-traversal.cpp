@@ -8,7 +8,6 @@ public:
         }
 
         TreeNode* root = buildTree(preorder, 0, preorder.size() - 1, inorder, 0, inorder.size() - 1, inMap);
-
         return root;
     }
 
