@@ -1,43 +1,37 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int maxHeight = *max_element(height.begin(), height.end());
-        int maxHeightIndex;
+        int total = 0, el;
+        vector<int> holding(height.size());
 
+        int mx = 0;
         for (int i = 0; i < height.size(); i++){
-            if (height[i] == maxHeight){
-                maxHeightIndex = i;
-                break;
+            el = height[i];
+
+            if (el >= mx) {
+                mx = el;
+                holding[i] = -1;
+            }
+            else{
+                holding[i] = mx - el;
             }
         }
 
-        int walls = 0, water = 0, holdWater = 0;
-        int left = 0, right = height.size() - 1;
+        mx = 0;
+        for (int i = height.size() - 1; i >= 0; i--){
+            el = height[i];
 
-        while (left != maxHeightIndex){
-            if (height[left] < walls){
-                water = water + (walls - height[left]);
-            }else{
-                walls = height[left];
+            if (el >= mx){ 
+                holding[i] = -1;
+                mx = el;
             }
-            left++;
+            else{
+                if (holding[i] != -1) holding[i] = min(holding[i], mx - el);
+            }
+
+            if (holding[i] != -1) total += holding[i];
         }
 
-        holdWater += water;
-        water = 0;
-        walls = 0;
-
-        while (right != maxHeightIndex){
-            if (height[right] < walls){
-                water = water + (walls - height[right]);
-            }else{
-                walls = height[right];
-            }
-            right--;
-        }
-
-        holdWater += water;
-
-        return holdWater;
+        return total;
     }
 };
