@@ -1,37 +1,38 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int total = 0, el;
-        vector<int> holding(height.size());
+        int n = height.size();
+        if (n == 0) return 0;
 
-        int mx = 0;
-        for (int i = 0; i < height.size(); i++){
-            el = height[i];
+        vector<int> water(n, 0);
+        int totalWater = 0;
 
-            if (el >= mx) {
-                mx = el;
-                holding[i] = -1;
-            }
-            else{
-                holding[i] = mx - el;
+        int leftMax = 0;
+        for (int i = 0; i < n; ++i) {
+            if (height[i] >= leftMax) {
+                leftMax = height[i];
+                water[i] = -1;
+            } else {
+                water[i] = leftMax - height[i];
             }
         }
 
-        mx = 0;
-        for (int i = height.size() - 1; i >= 0; i--){
-            el = height[i];
-
-            if (el >= mx){ 
-                holding[i] = -1;
-                mx = el;
+        int rightMax = 0;
+        for (int i = n - 1; i >= 0; --i) {
+            if (height[i] >= rightMax) {
+                rightMax = height[i];
+                water[i] = -1;
+            } else {
+                if (water[i] != -1) {
+                    water[i] = min(water[i], rightMax - height[i]);
+                }
             }
-            else{
-                if (holding[i] != -1) holding[i] = min(holding[i], mx - el);
-            }
 
-            if (holding[i] != -1) total += holding[i];
+            if (water[i] != -1) {
+                totalWater += water[i];
+            }
         }
 
-        return total;
+        return totalWater;
     }
 };
