@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
