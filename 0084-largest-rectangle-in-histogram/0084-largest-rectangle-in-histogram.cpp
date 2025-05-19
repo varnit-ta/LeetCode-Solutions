@@ -9,7 +9,8 @@ public:
             while (!stk.empty() && heights[i] < heights[stk.top()]) {
                 int h = heights[stk.top()];
                 stk.pop();
-                int w = stk.empty() ? i : i - stk.top() - 1;
+                
+                int w = stk.empty() ? i : (i - stk.top() - 1);
                 maxArea = max(maxArea, h * w);
             }
             stk.push(i);
