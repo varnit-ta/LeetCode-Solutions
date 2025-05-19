@@ -1,33 +1,20 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& arr) {
-        stack<pair<int, int>> stk;
-        int mx = 0;
+    int largestRectangleArea(vector<int>& heights) {
+        stack<int> stk;
+        heights.push_back(0); // Sentinel to flush stack
+        int maxArea = 0;
 
-        for (int i = 0; i < arr.size(); i++){
-            while (!stk.empty() && arr[i] < stk.top().first){
-                pair<int, int> el = stk.top(); 
+        for (int i = 0; i < heights.size(); ++i) {
+            while (!stk.empty() && heights[i] < heights[stk.top()]) {
+                int h = heights[stk.top()];
                 stk.pop();
-
-                int left = stk.empty() ? -1 : stk.top().second;
-                int right = (i == arr.size() - 1) ? arr.size() - 1: i;
-
-                mx = max(mx, el.first * (right - left - 1));
+                int w = stk.empty() ? i : i - stk.top() - 1;
+                maxArea = max(maxArea, h * w);
             }
-
-            stk.push({arr[i], i});
+            stk.push(i);
         }
 
-        while (!stk.empty()){
-            pair<int, int> el = stk.top(); 
-            stk.pop();
-
-            int left = stk.empty() ? -1 : stk.top().second;
-            int right = arr.size();
-
-            mx = max(mx, el.first * (right - left - 1));
-        }
-
-        return mx;
+        return maxArea;
     }
 };
