@@ -1,9 +1,8 @@
 class Solution {
 public:
-    int solve(vector<int>& arr){
+    int solve(vector<int>& arr, int n){
         stack<int> stk;
         int mx = 0;
-        int n = arr.size();
 
         for (int i = 0; i <= n; i++) {
             int curr = (i == n) ? 0 : arr[i];
@@ -22,25 +21,19 @@ public:
     }
 
     int maximalRectangle(vector<vector<char>>& matrix) {
-        if (matrix.empty()) return 0;
-
         int rows = matrix.size(), cols = matrix[0].size();
         vector<vector<int>> mat(rows, vector<int>(cols, 0));
 
-        for (int j = 0; j < cols; j++) {
+        for (int j = 0; j < cols; j++)
             mat[0][j] = (matrix[0][j] == '1') ? 1 : 0;
-        }
 
         for (int i = 1; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
+            for (int j = 0; j < cols; j++)
                 mat[i][j] = (matrix[i][j] == '1') ? mat[i - 1][j] + 1 : 0;
-            }
         }
 
         int mx = 0;
-        for (auto& row : mat) {
-            mx = max(mx, solve(row));
-        }
+        for (auto& row : mat) mx = max(mx, solve(row, cols));
 
         return mx;
     }
