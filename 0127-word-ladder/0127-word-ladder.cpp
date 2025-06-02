@@ -2,7 +2,10 @@ class Solution {
 public:
     bool oneCharDiff(string a, string b){
         int diff = 0;
-        for (int i = 0; i < a.length(); i++) diff += (a[i] == b[i] ? 0 : 1);
+        for (int i = 0; i < a.length(); i++){ 
+            diff += (a[i] == b[i] ? 0 : 1);
+            if (diff == 2) return false;
+        }
         return diff == 1;
     }
 
