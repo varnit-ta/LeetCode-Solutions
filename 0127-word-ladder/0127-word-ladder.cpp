@@ -1,54 +1,38 @@
 class Solution {
 public:
-    bool oneCharDiff(string a, string b) {
-        int diff = 0;
-        for (int i = 0; i < a.length(); i++) {
-            diff += (a[i] == b[i] ? 0 : 1);
-            if (diff == 2)
-                return false;
-        }
-        return diff == 1;
-    }
+    vector<string> createDiff(string a){
+        vector<string> res;
+        string alph = "abcdefghijklmnopqrstuvwxyz";
 
-    int ladderLength(string beginWord, string endWord,
-                     vector<string>& wordList) {
-        int vertices = wordList.size() + 1;
-        wordList.push_back(beginWord);
+        char rep;
+        for (auto& ch: a){
+            rep = ch;
 
-        map<string, vector<string>> graph;
-
-        for (int i = 0; i < vertices; i++) {
-            for (int j = i + 1; j < vertices; j++) {
-                if (oneCharDiff(wordList[i], wordList[j])) {
-                    graph[wordList[i]].push_back(wordList[j]);
-                    graph[wordList[j]].push_back(wordList[i]);
-                }
+            for (auto el: alph){
+                ch = el;
+                res.push_back(a);
+                ch = rep;
             }
         }
 
-        int step = 0;
-        queue<string> q;
-        q.push(beginWord);
+        return res;
+    }
 
-        set<string> visited;
-        visited.insert(beginWord);
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        set<string> s(wordList.begin(), wordList.end());
+        queue<pair<string, int>> q;
+        q.push({beginWord, 1});
 
-        while (!q.empty()) {
-            int size = q.size();
-            step++;
+        while (!q.empty()){
+            auto [str, step] = q.front();
+            q.pop();
 
-            for (int i = 0; i < size; i++) {
-                string curr = q.front();
-                q.pop();
+            if (str == endWord) return step;
 
-                if (curr == endWord)
-                    return step;
-
-                for (auto neigh : graph[curr]) {
-                    if (visited.find(neigh) == visited.end()) {
-                        q.push(neigh);
-                        visited.insert(neigh);
-                    }
+            for (auto el: createDiff(str)){
+                if (s.find(el) != s.end()){
+                    s.erase(el);
+                    q.push({el, step + 1});
                 }
             }
         }
