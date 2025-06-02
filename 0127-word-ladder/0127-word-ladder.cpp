@@ -1,32 +1,25 @@
-#define LC_HACK
-#ifdef LC_HACK
-const auto __ = []() {
-  struct ___ { static void _() { std::ofstream("display_runtime.txt") << 0 << '\n'; } };
-  std::atexit(&___::_);
-  return 0;
-}();
-#endif
-
 class Solution {
 public:
-    bool oneCharDiff(string a, string b){
+    bool oneCharDiff(string a, string b) {
         int diff = 0;
-        for (int i = 0; i < a.length(); i++){ 
+        for (int i = 0; i < a.length(); i++) {
             diff += (a[i] == b[i] ? 0 : 1);
-            if (diff == 2) return false;
+            if (diff == 2)
+                return false;
         }
         return diff == 1;
     }
 
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+    int ladderLength(string beginWord, string endWord,
+                     vector<string>& wordList) {
         int vertices = wordList.size() + 1;
         wordList.push_back(beginWord);
 
         map<string, vector<string>> graph;
 
-        for (int i = 0; i < vertices; i++){
-            for (int j = i + 1; j < vertices; j++){
-                if (oneCharDiff(wordList[i], wordList[j])){
+        for (int i = 0; i < vertices; i++) {
+            for (int j = i + 1; j < vertices; j++) {
+                if (oneCharDiff(wordList[i], wordList[j])) {
                     graph[wordList[i]].push_back(wordList[j]);
                     graph[wordList[j]].push_back(wordList[i]);
                 }
@@ -40,17 +33,18 @@ public:
         set<string> visited;
         visited.insert(beginWord);
 
-        while (!q.empty()){
+        while (!q.empty()) {
             int size = q.size();
             step++;
 
-            for (int i = 0; i < size; i++){
+            for (int i = 0; i < size; i++) {
                 string curr = q.front();
                 q.pop();
 
-                if (curr == endWord) return step;
+                if (curr == endWord)
+                    return step;
 
-                for (auto neigh: graph[curr]){
+                for (auto neigh : graph[curr]) {
                     if (visited.find(neigh) == visited.end()) {
                         q.push(neigh);
                         visited.insert(neigh);
