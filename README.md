@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0792-binary-search) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
