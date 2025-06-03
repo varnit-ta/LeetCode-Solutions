@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -703,5 +707,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
