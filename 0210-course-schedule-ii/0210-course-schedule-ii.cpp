@@ -1,8 +1,6 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        if (numCourses == 1) return {0};
-
         vector<int> ans;
         vector<int> inNodes(numCourses, 0);
         vector<vector<int>> graph(numCourses, vector<int>());
