@@ -4,6 +4,11 @@ public:
         int vertices = graph.size();
         vector<int> color(vertices, -1);
 
+        /*
+            We can't start from any particular node (say 0th)
+            because that would be assuming the graph is fully
+            connected.
+        */
         for (int i = 0; i < vertices; ++i) {
             if (color[i] == -1) {
                 stack<pair<int, int>> stk;
