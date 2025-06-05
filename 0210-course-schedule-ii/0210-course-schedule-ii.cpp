@@ -1,3 +1,9 @@
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return '$';
+}();
+
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
