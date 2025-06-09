@@ -1,59 +1,39 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-typedef pair<int, int> pii;
+typedef long long ll;
 
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        // Build adjacency list
-        vector<vector<pii>> adj(n);
-        for (auto& edge : edges) {
-            int u = edge[0], v = edge[1], wt = edge[2];
-            adj[u].push_back({v, wt});
-            adj[v].push_back({u, wt});
+        vector<vector<ll>> graph(n, vector<ll>(n, LLONG_MAX));
+
+        for (auto& edge: edges) {
+            graph[edge[0]][edge[1]] = edge[2];
+            graph[edge[1]][edge[0]] = edge[2];
         }
+        for (int i = 0; i < n; i++) graph[i][i] = 0;
 
-        // Function to run Dijkstra from a given source node
-        auto dijkstra = [&](int src) -> vector<int> {
-            vector<int> dist(n, INT_MAX);
-            priority_queue<pii, vector<pii>, greater<pii>> pq;
-            pq.push({0, src});
-            dist[src] = 0;
-
-            while (!pq.empty()) {
-                auto [d, u] = pq.top(); pq.pop();
-                if (d > dist[u]) continue;
-
-                for (auto& [v, wt] : adj[u]) {
-                    if (dist[v] > d + wt) {
-                        dist[v] = d + wt;
-                        pq.push({dist[v], v});
-                    }
+        for (int via = 0; via < n; via++){
+            for (int i = 0; i < n; i++){
+                if (i == via) continue;
+                for (int j = 0; j < n; j++){
+                    if (j == via) continue;
+                    if (graph[i][via] == LLONG_MAX || graph[via][j] == LLONG_MAX) continue;
+                    graph[i][j] = min(graph[i][j], graph[i][via] + graph[via][j]);
                 }
             }
-            return dist;
-        };
+        }
 
-        int minReachable = INT_MAX, resNode = -1;
-
-        // Run Dijkstra from each node
-        for (int i = 0; i < n; ++i) {
-            vector<int> dist = dijkstra(i);
+        ll mn = LLONG_MAX, mnNode = 0;
+        for (int i = 0; i < n; i++){
             int count = 0;
-            for (int j = 0; j < n; ++j) {
-                if (i != j && dist[j] <= distanceThreshold) {
-                    count++;
-                }
+            for (int j = 0; j < n; j++){
+                if (graph[i][j] <= distanceThreshold) count++;
             }
-
-            // Choose the node with smallest reachable count, prefer larger index
-            if (count <= minReachable) {
-                minReachable = count;
-                resNode = i;
+            if (mn >= count){
+                mn = count;
+                mnNode = i;
             }
         }
 
-        return resNode;
+        return mnNode;
     }
 };
