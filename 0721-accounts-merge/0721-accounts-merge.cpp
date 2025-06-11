@@ -58,7 +58,7 @@ public:
         for (auto& [idx, emails] : merged) {
             vector<string> temp;
             temp.insert(temp.begin(), emails.begin(), emails.end());
-            sort(temp.begin(), temp.end());
+            //sort(temp.begin(), temp.end());
             temp.insert(temp.begin(), accounts[idx][0]);
             ans.push_back(temp);
         }
