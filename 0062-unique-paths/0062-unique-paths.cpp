@@ -1,20 +1,16 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        cout.tie(nullptr);
+        vector<vector<int>> dp(m, vector<int>(n, 0));
+        for (int i = 0; i < n; i++) dp[0][i] = 1;
+        for (int i = 0; i < m; i++) dp[i][0] = 1;
 
-        vector<vector<int>> matrix(m, vector<int>(n, 0));
-        matrix[m-1][n-1] = 1;
-
-        for (int i = m-1; i >= 0; i--) {
-            for (int j = n-1; j >= 0; j--) {
-                if (i < m-1) matrix[i][j] += matrix[i+1][j];
-                if (j < n-1) matrix[i][j] += matrix[i][j+1];
+        for (int row = 1; row < m; row++){
+            for (int col = 1; col < n; col++){
+                dp[row][col] = dp[row - 1][col] + dp[row][col - 1];
             }
         }
 
-        return matrix[0][0];
+        return dp[m-1][n-1];
     }
 };
