@@ -7,12 +7,12 @@ public:
         vector<vector<long long>> dp(ROWS, vector<long long>(COLS, 0));
 
         for (int i = COLS - 1; i >= 0; i--) {
-            if (grid[ROWS - 1][i] != 1) dp[ROWS - 1][i] = -1;
+            if (grid[ROWS - 1][i] != 1) dp[ROWS - 1][i] = 1;
             else break;
         }
 
         for (int i = ROWS - 1; i >= 0; i--) {
-            if (grid[i][COLS - 1] != 1) dp[i][COLS - 1] = -1;
+            if (grid[i][COLS - 1] != 1) dp[i][COLS - 1] = 1;
             else break;
         }
 
@@ -24,6 +24,6 @@ public:
             }
         }
 
-        return -dp[0][0];
+        return dp[0][0];
     }
 };
