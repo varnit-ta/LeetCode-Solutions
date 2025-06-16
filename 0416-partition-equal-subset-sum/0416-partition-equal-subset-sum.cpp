@@ -1,25 +1,47 @@
 class Solution {
 public:
+/*
+    Another approach
+
+    class Solution {
+    public:
+        bool canPartition(vector<int>& nums) {
+            int total = accumulate(nums.begin(), nums.end(), 0);
+            if (total % 2)
+                return false;
+            int target = total / 2;
+
+            bitset<10001> dp;
+            dp[0] = 1;
+            for (int num : nums) {
+                dp |= dp << num;
+            }
+            return dp[target];
+        }
+    };
+*/
+
     bool canPartition(vector<int>& nums) {
         int n = nums.size(), totalSum = 0;
 
-        for (auto& x: nums)
+        for (auto& x : nums)
             totalSum += x;
 
         if (totalSum % 2 == 1)
             return false;
-        
+
         totalSum /= 2;
         vector<vector<bool>> dp(n, vector<bool>(totalSum + 1, false));
 
-        for (int i = 0; i < n; i++) dp[i][0] = true;
+        for (int i = 0; i < n; i++)
+            dp[i][0] = true;
         if (nums[0] <= totalSum)
             dp[0][nums[0]] = true;
 
-        for (int ind = 1; ind < n; ind++){
-            for (int target = 1; target <= totalSum; target++){
+        for (int ind = 1; ind < n; ind++) {
+            for (int target = 1; target <= totalSum; target++) {
                 bool notTake = dp[ind - 1][target];
-                
+
                 bool take = false;
                 if (nums[ind] <= target)
                     take = dp[ind - 1][target - nums[ind]];
@@ -28,6 +50,6 @@ public:
             }
         }
 
-        return dp[n-1][totalSum];
+        return dp[n - 1][totalSum];
     }
 };
