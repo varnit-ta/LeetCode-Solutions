@@ -1,22 +1,17 @@
 class Solution {
 public:
-    int LongestIncreasingSubsequence(vector<int>& arr){
-        vector<int> tail;
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n, 1);
 
-        for(auto x: arr){
-            auto it = lower_bound(tail.begin(), tail.end(), x);
-
-            if (it == tail.end()){
-                tail.push_back(x);
-            }else{
-                *it = x;
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (nums[j] < nums[i]) {
+                    dp[i] = max(dp[i], dp[j] + 1);
+                }
             }
         }
 
-        return tail.size();
-    }
-
-    int lengthOfLIS(vector<int>& nums) {
-        return LongestIncreasingSubsequence(nums);
+        return *max_element(dp.begin(), dp.end());
     }
 };
