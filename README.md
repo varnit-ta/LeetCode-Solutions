@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Dynamic Programming
 |  |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1559-cherry-pickup-ii) |
