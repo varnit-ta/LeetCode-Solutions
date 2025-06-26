@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Simulation
 |  |
 | ------- |
