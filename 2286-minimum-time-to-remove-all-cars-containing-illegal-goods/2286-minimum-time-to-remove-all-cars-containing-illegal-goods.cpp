@@ -20,7 +20,7 @@ public:
         int mini = right[0];           // remove all from right
         mini = min(mini, left[n - 1]); // remove all from left
         
-        for (int i = 0; i < n; i++)
+        for (int i = 1; i < n-1; i++)
             mini = min(mini, left[i] + right[i]);
 
         return mini;
