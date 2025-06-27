@@ -1,3 +1,19 @@
+/*
+    The idea is to simulate the process of removing from both sides:
+    - We calculate the minimum cost to remove all '1's from the left up to each index.
+    - We also calculate the cost to remove all '1's from the right starting from each index.
+    
+    For each index, we consider the total cost of removing some '1's from the left
+    and the rest from the right — essentially trying all possible split points.
+    
+    We also make sure to consider the edge cases where we remove everything either
+    from the left only or from the right only.
+    
+    The final answer is the minimum cost among all these options.
+
+    Link: https://www.youtube.com/watch?v=QjPL6-ZX_Cs
+*/
+
 class Solution {
 public:
     int minimumTime(string s) {
