@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 ## Backtracking
 |  |
 | ------- |
