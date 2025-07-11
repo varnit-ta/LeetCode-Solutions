@@ -3,7 +3,7 @@ public:
     long long reverse(long long v) {
         long long temp = 0;
 
-        while (v != 0) {
+        while (v > 0) {
             temp = temp * 10 + v % 10;
             v /= 10;
         }
