@@ -1,48 +1,31 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include <vector>
+using namespace std;
 class Solution {
 public:
-    vector<int> data;
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if (!l1) return l2;
+        if (!l2) return l1;
 
-    void captureData(vector<ListNode*> &c){
-        for (int i = 0; i < c.size(); i++){
-            ListNode *ptr =  c[i];
-
-            while (ptr != NULL){
-                data.push_back(ptr->val);
-                ptr = ptr->next;
-            }
+        if (l1->val < l2->val) {
+            l1->next = mergeTwoLists(l1->next, l2);
+            return l1;
+        } else {
+            l2->next = mergeTwoLists(l1, l2->next);
+            return l2;
         }
-    }
-
-    ListNode* createLinkedList(vector<int> data){
-        ListNode* root = NULL;
-        ListNode* current = root;
-
-        for (int val : data) {
-            if (root == NULL) {
-                root = new ListNode(val);
-                current = root;
-            } else {
-                current->next = new ListNode(val);
-                current = current->next;
-            }
-        }
-
-        return root;
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        captureData(lists);
-        sort(data.begin(), data.end());
-        return createLinkedList(data);
+        if (lists.empty()) return nullptr;
+        return divideAndConquer(lists, 0, lists.size() - 1);
+    }
+
+    ListNode* divideAndConquer(vector<ListNode*>& lists, int left, int right) {
+        if (left == right) return lists[left];
+
+        int mid = left + (right - left) / 2;
+        ListNode* l1 = divideAndConquer(lists, left, mid);
+        ListNode* l2 = divideAndConquer(lists, mid + 1, right);
+        return mergeTwoLists(l1, l2);
     }
 };
