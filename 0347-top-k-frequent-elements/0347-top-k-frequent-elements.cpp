@@ -9,11 +9,13 @@ public:
 
         for (auto& [num, count] : freq) {
             minHeap.push({count, num});
+
             if (minHeap.size() > k)
                 minHeap.pop();
         }
 
         vector<int> res;
+        
         while (!minHeap.empty()) {
             res.push_back(minHeap.top().second);
             minHeap.pop();
