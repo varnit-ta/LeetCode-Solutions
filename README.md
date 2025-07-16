@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
