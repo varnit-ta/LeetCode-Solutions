@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
