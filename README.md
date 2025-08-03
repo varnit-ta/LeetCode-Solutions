@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Sorting
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Trie
 |  |
 | ------- |
