@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -914,4 +917,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 <!---LeetCode Topics End-->
