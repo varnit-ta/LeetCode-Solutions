@@ -1,9 +1,8 @@
-int MOD = 1000000007;
-
 class Solution {
 public:
     int numberOfArrays(string s, int k) {
-        int n = s.size();
+        int n = s.size(), MOD = 1000000007;
+        
         vector<int> dp(n+1, 0);
         dp[n] = 1;
 
