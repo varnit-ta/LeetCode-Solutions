@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -925,4 +928,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
