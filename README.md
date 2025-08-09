@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Design
 |  |
 | ------- |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Sliding Window
 |  |
 | ------- |
