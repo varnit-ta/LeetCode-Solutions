@@ -17,6 +17,6 @@ public:
             }
         }
 
-        return k + right + 1;;
+        return k + right + 1;
     }
 };
