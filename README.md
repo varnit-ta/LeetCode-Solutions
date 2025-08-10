@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0942-super-palindromes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0942-super-palindromes) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Number Theory
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -758,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
