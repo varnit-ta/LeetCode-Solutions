@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
