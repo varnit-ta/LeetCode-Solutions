@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1517-restore-the-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1517-restore-the-array) |
 | [1559-cherry-pickup-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1559-cherry-pickup-ii) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Greedy
 |  |
 | ------- |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
@@ -962,4 +966,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
+## Bitmask
+|  |
+| ------- |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
