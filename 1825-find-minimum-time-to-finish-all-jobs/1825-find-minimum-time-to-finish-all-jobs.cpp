@@ -26,7 +26,7 @@ public:
 
         while (low <= high) {
             int mid = (low + high) / 2;
-            vector<int> work(k, 0); // fresh for each mid
+            vector<int> work(k, 0);
 
             if (check(jobs, work, k, mid, 0)) {
                 ans = mid;
