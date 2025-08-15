@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1517-restore-the-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1517-restore-the-array) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
