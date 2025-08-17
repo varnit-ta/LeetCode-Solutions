@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0942-super-palindromes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0867-new-21-game) |
 ## Bitmask
 |  |
 | ------- |
