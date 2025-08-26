@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0875-longest-mountain-in-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0875-longest-mountain-in-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0942-super-palindromes) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [0875-longest-mountain-in-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
