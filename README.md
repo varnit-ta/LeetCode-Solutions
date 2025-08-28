@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3748-sort-matrix-by-diagonals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
