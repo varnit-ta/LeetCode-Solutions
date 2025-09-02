@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0942-super-palindromes) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1129-longest-string-chain) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2689-rearranging-fruits](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -1043,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
