@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2032-largest-odd-number-in-string](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
