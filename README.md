@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 ## Greedy
 |  |
