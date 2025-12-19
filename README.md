@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
@@ -872,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## String Matching
@@ -951,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
@@ -998,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/varnit-ta/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
