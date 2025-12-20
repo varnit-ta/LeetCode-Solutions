@@ -17,8 +17,7 @@ public:
     }
 
     bool isMirror(TreeNode* p, TreeNode* q) {
-        if (!p && q) return false;
-        if (p && !q) return false;
+        if (!p && q || p && !q) return false;
         if (!p && !q) return true;
 
         return (p->val == q->val) && isMirror(p->left, q->right) && isMirror(p->right, q->left);
